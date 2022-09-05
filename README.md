@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://t.me/Romeoooraj143"><img src="https://telegra.ph/file/603f08f3ddd590395485a.jpg"></a></p>
 
-### variable 
+### SECRETS COPY HERE AND PUT VALUE ☟︎︎︎☟︎︎︎☟︎︎︎
 
 ``BOT_REPO``
 
