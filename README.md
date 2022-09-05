@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://t.me/Romeoooraj143"><img src="https://telegra.ph/file/603f08f3ddd590395485a.jpg"></a></p>
 
-### SECRETS COPY HERE AND PUT VALUE ☟︎︎︎☟︎︎︎☟︎︎︎
+### SECRETS COPY HERE AND PUT THERE VALUE ☟︎︎︎☟︎︎︎☟︎︎︎
 
 ``BOT_REPO``
 
